@@ -1,0 +1,19 @@
+.app-header {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  align-items: center;
+  margin: 0 20px;
+}
+.app-header__currencies {
+  display: flex;
+}
+.app-header small {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  color: #f9fffd;
+}
+
+/*# sourceMappingURL=index.css.map */

@@ -1,0 +1,23 @@
+.exchange-rate {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  margin-right: 20px;
+}
+.exchange-rate h4 {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  color: #e0f396;
+  margin-right: 5px;
+}
+.exchange-rate span {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  color: white;
+}
+
+/*# sourceMappingURL=index.css.map */

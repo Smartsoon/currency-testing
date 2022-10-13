@@ -1,0 +1,16 @@
+.exchange {
+  display: flex;
+  width: 100%;
+  margin-top: 300px;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+.exchange__input-blocks {
+  margin-right: 30px;
+}
+.exchange__input-blocks__autocomplete {
+  margin-bottom: 20px;
+}
+
+/*# sourceMappingURL=index.css.map */

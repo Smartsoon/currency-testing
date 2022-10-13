@@ -1,0 +1,19 @@
+@import "../../styles/variables";
+
+.exchange-rate {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  margin-right: 20px;
+
+  h4 {
+    @include fontMain(16px, 22px, normal);
+    color: #e0f396;
+    margin-right: 5px;
+  }
+
+  span {
+    @include fontMain(16px, 22px, normal);
+    color: white;
+  }
+}
